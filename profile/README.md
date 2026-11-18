@@ -12,7 +12,7 @@ Clean-room reverse engineering, binary format specifications, and portable decom
 
 | Repository | Platform | Scope |
 | :--- | :--- | :--- |
-| [MeadowValley-BackToEarth-SlateOne-04-Decomp](https://github.com/StreamResearch/MeadowValley-BackToEarth-SlateOne-04-Decomp) | PlayStation 1 (`SLUS-01115`) | Clean-room C rewrite, container decoders, format specifications, and `.decomp` bundle |
+| [MeadowValley-BackToEarth-SlateOne-04-Decomp](https://github.com/StreamResearch/MeadowValley-BackToEarth-SlateOne-04-Decomp) | SlateOne / MIPS32 (`SLUS-01115`) | Clean-room C rewrite, container decoders, format specifications, and `.decomp` bundle |
 
 ## Clean-Room & Bring-Your-Own-Media Policy
 
